@@ -1,3 +1,3 @@
 # Programação
 
-Algoritmos desenvolvidos para matéria de programação.
+Código final desenvolvido para a disciplina de programação em python.
